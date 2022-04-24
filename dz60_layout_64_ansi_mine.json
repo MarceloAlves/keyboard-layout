@@ -101,7 +101,7 @@
       "RGB_M_X",
       "RGB_M_G",
       "KC_NO",
-      "CL_CTRL",
+      "CL_NORM",
       "KC_NO",
       "RGB_RMOD",
       "RGB_HUD",
@@ -128,9 +128,9 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "CL_CTRL",
+      "AG_SWAP",
+      "AG_NORM",
       "KC_NO",
       "KC_NO",
       "KC_TRNS",
@@ -139,5 +139,5 @@
       "KC_NO"
     ]
   ],
-  "author": ""
+  "author": "Marcelo Alves"
 }
