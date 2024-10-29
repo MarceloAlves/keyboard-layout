@@ -17,8 +17,8 @@ Same as DZ60 but for the GMMK 2
 
 layer 0
 
-![image](https://github.com/user-attachments/assets/00420efd-1d55-45dd-83a4-c86970feb26f)
+![layer 0](https://github.com/user-attachments/assets/6146dac9-7724-483f-a650-c9185e4e3db2)
 
 layer 1
 
-![image](https://github.com/user-attachments/assets/fb7cbe9d-f14c-4600-92a7-d82af426105c)
+![layer 1](https://github.com/user-attachments/assets/4a942d5e-fbfc-4b53-8a26-8c8a41e8892f)
